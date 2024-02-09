@@ -1,0 +1,1085 @@
+2024-02-04 09:28:53,378 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-04 09:28:53,379 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:28:53,379 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-04 09:28:54,216 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-04 09:28:54,414 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-04 09:28:59,251 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-04 09:28:59,252 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-04 09:28:59,252 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-04 09:28:59,680 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-04 09:29:01,240 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Test_case test_user_login_params_004 is Passed 
+2024-02-04 09:29:01,241 : INFO : Test_Login_Params : test_user_login_params_004 : 63 : Test_case test_user_login_params_004 is Completed 
+2024-02-04 09:29:32,600 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:32,601 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:29:42,832 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:42,832 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:29:53,450 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:29:53,451 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:30:18,681 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:30:18,681 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:30:38,996 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:30:38,997 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:37:16,974 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:37:16,975 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:37:46,407 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:37:46,407 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-04 09:38:13,409 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-04 09:38:13,409 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:07:24,708 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:07:24,709 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:07:53,160 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:07:53,160 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:18:50,043 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:18:50,044 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:28:11,440 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:28:11,443 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:28:11,585 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com 
+2024-02-05 08:28:12,177 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin 
+2024-02-05 08:28:12,438 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:28:15,949 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 43 : Login Pass 
+2024-02-05 08:28:15,950 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 45 : Expected Pass 
+2024-02-05 08:28:15,950 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Taking screenshot 
+2024-02-05 08:28:16,418 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 51 : Click on Logout button 
+2024-02-05 08:28:18,055 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com 
+2024-02-05 08:28:18,356 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin1 
+2024-02-05 08:28:18,527 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:28:39,247 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:28:39,247 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:28:39,300 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com1 
+2024-02-05 08:28:39,558 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin 
+2024-02-05 08:28:39,734 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:29:00,366 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:29:00,367 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:29:00,431 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com1 
+2024-02-05 08:29:00,698 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin1 
+2024-02-05 08:29:00,938 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:29:21,615 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:29:21,616 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:31:05,603 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:31:05,603 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:31:05,665 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com 
+2024-02-05 08:31:33,160 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:31:33,161 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:31:33,287 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com 
+2024-02-05 08:31:34,027 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin 
+2024-02-05 08:31:34,232 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:31:38,381 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 43 : Login Pass 
+2024-02-05 08:31:38,381 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 45 : Expected Pass 
+2024-02-05 08:31:38,381 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Taking screenshot 
+2024-02-05 08:31:38,821 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 51 : Click on Logout button 
+2024-02-05 08:31:40,452 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com 
+2024-02-05 08:31:40,756 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin1 
+2024-02-05 08:31:40,936 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:32:01,758 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:32:01,759 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:32:01,845 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com1 
+2024-02-05 08:32:02,073 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin 
+2024-02-05 08:32:02,247 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:32:22,818 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:32:22,819 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:32:22,894 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 35 : Entering email - admin@yourstore.com1 
+2024-02-05 08:32:23,151 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 37 : Entering Password - admin1 
+2024-02-05 08:32:23,329 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 39 : Click on login button 
+2024-02-05 08:32:43,964 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 63 : Login Fail 
+2024-02-05 08:32:43,964 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 65 : Expected Fail 
+2024-02-05 08:33:57,867 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:33:57,871 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:33:57,974 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:33:58,336 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:33:58,508 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:34:02,232 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-05 08:34:02,233 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 46 : Expected Pass 
+2024-02-05 08:34:02,233 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 48 : Taking screenshot 
+2024-02-05 08:34:02,686 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 52 : Click on Logout button 
+2024-02-05 08:34:04,452 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:34:04,683 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:34:04,826 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:34:15,502 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:34:15,502 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 66 : Expected Fail 
+2024-02-05 08:34:15,575 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:34:15,744 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:34:15,910 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:34:26,573 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:34:26,573 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 66 : Expected Fail 
+2024-02-05 08:34:26,683 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:34:26,932 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:34:27,109 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:34:37,850 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:34:37,850 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 66 : Expected Fail 
+2024-02-05 08:35:57,482 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:35:57,484 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:35:57,544 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:35:57,859 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:35:58,121 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:36:01,650 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-05 08:36:01,650 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 46 : Expected Pass 
+2024-02-05 08:36:01,650 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 48 : Taking screenshot 
+2024-02-05 08:36:02,239 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 52 : Click on Logout button 
+2024-02-05 08:36:03,907 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:36:04,139 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:36:04,377 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:36:15,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:36:15,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 66 : Expected Fail 
+2024-02-05 08:36:15,163 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:36:15,480 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:36:15,676 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:36:26,505 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:36:26,506 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Pass 
+2024-02-05 08:36:26,506 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 71 : Taking screenshot 
+2024-02-05 08:36:27,233 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:36:27,510 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:36:27,707 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:36:38,370 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 64 : Login Fail 
+2024-02-05 08:36:38,371 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 66 : Expected Fail 
+2024-02-05 08:43:40,815 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:43:40,816 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:43:40,889 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:43:41,238 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:43:41,385 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:43:44,788 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-05 08:43:44,860 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-05 08:43:44,861 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-05 08:43:45,504 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-05 08:43:47,275 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:43:47,586 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:43:47,736 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:43:58,722 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:43:58,723 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-05 08:43:58,766 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:43:59,192 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:43:59,394 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:44:10,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:44:10,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-05 08:44:10,169 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:44:10,414 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:44:10,575 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:44:21,420 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:44:21,420 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-05 08:44:21,421 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-05 08:44:21,421 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-05 08:45:38,442 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 08:45:38,442 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 08:45:38,550 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:45:38,982 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:45:39,161 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:45:42,575 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-05 08:45:42,625 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-05 08:45:42,626 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-05 08:45:43,095 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-05 08:45:44,661 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 08:45:44,970 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:45:45,164 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:45:55,905 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:45:55,905 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-05 08:45:55,951 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:45:56,206 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 08:45:56,477 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:46:07,221 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:46:07,222 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 72 : Expected Pass 
+2024-02-05 08:46:07,222 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 74 : Taking screenshot 
+2024-02-05 08:46:07,724 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-05 08:46:07,956 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-05 08:46:08,113 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 08:46:18,752 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-05 08:46:18,752 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-05 08:46:18,753 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 81 : Test_case test_user_login_DDT_005 is Failed 
+2024-02-05 09:14:05,365 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 09:14:05,366 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 09:14:34,306 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-05 09:14:34,308 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-05 09:14:34,394 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-05 09:14:34,834 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-05 09:14:35,006 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-05 09:14:38,590 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-05 09:14:38,647 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-05 09:14:38,648 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 07:36:06,496 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 07:36:06,536 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:36:14,090 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:36:14,090 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:36:14,091 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:36:18,448 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 07:36:18,448 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:36:18,454 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 07:36:18,458 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 07:36:18,458 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 07:36:19,179 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 07:36:20,159 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 07:36:20,161 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:36:20,161 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 07:36:20,364 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:36:20,364 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:36:20,365 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:36:21,056 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 07:36:21,162 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 07:36:21,358 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:36:22,018 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:36:23,013 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:36:23,617 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:36:26,826 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 07:36:26,827 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 07:36:26,827 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 07:36:28,517 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 07:36:28,517 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 07:36:30,313 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 07:36:30,776 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 07:36:32,433 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:36:32,434 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:36:32,935 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 07:36:34,813 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:36:34,813 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:36:34,814 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:36:34,814 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:37:02,034 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:37:02,035 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:37:02,035 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:37:02,495 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:37:02,695 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:37:03,553 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:37:03,554 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:37:03,555 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:37:04,117 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:37:04,182 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:37:13,609 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:37:13,609 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:37:13,609 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:37:13,609 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:37:14,756 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:37:14,756 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 07:37:14,756 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 07:37:14,870 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 07:41:15,754 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 07:41:15,755 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:15,755 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 07:41:16,230 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 07:41:16,231 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:17,565 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:41:17,566 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:17,566 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:41:18,119 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:41:18,359 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:41:18,551 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:41:18,552 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:18,552 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:41:19,179 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:41:19,697 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:41:20,568 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 07:41:21,276 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 07:41:21,713 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 07:41:21,714 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:22,019 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 07:41:22,027 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 07:41:22,027 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 07:41:22,503 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 07:41:22,503 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 07:41:22,503 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 07:41:22,893 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 07:41:24,424 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 07:41:25,289 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 07:41:25,290 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 07:41:26,496 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:41:26,496 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:41:27,496 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 07:41:29,046 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 07:41:31,475 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:41:31,475 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:41:31,475 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:41:31,475 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:41:40,244 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:41:40,244 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:40,245 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:41:40,713 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:41:41,038 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:41:42,732 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:41:42,732 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:41:42,733 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:41:43,229 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:41:43,420 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:41:51,803 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:41:51,804 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 07:41:51,804 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 07:41:52,546 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 07:41:54,154 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:41:54,155 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:41:54,155 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:41:54,155 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:42:26,443 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:42:26,443 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:26,443 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:42:26,812 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:42:27,163 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:42:34,844 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 07:42:34,845 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:34,845 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 07:42:35,319 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 07:42:35,319 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:36,268 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 07:42:36,933 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 07:42:36,947 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 07:42:36,947 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:37,046 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 07:42:37,055 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 07:42:37,056 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 07:42:37,623 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 07:42:40,236 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:42:40,236 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:42:40,262 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:42:40,262 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:42:41,369 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 07:42:41,369 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 07:42:42,903 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 07:42:46,423 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 07:42:47,304 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:42:47,305 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:47,305 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:42:48,299 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:42:48,687 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:42:54,083 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 07:42:54,084 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 07:42:54,084 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 07:42:56,159 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 07:42:58,242 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:42:58,242 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:42:58,243 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:42:59,392 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:42:59,819 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:42:59,837 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:42:59,838 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:43:07,589 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:43:07,589 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:43:07,589 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:43:07,912 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:43:08,162 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:43:11,039 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:43:11,039 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 07:43:11,039 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 07:43:11,554 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 07:43:18,774 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:43:18,774 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:43:18,775 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:43:18,775 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:44:01,143 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:44:01,149 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:01,149 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:44:02,815 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:44:03,250 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:44:06,079 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:44:06,079 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:06,079 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:44:07,330 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 07:44:07,330 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:07,333 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 07:44:07,337 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 07:44:07,337 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 07:44:07,566 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 07:44:07,937 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:44:08,518 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 07:44:10,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 07:44:10,362 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:12,732 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 07:44:12,732 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:12,733 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 07:44:12,975 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 07:44:13,752 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 07:44:13,753 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 07:44:13,753 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 07:44:14,106 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 07:44:15,070 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:44:15,071 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:44:15,071 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:44:15,071 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:44:15,650 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 07:44:18,188 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:44:18,189 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 07:44:19,511 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 07:44:19,511 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 07:44:20,508 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 07:44:20,735 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 07:44:38,611 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:44:38,611 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:38,612 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 07:44:38,988 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:44:39,070 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:44:41,374 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 07:44:41,375 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 07:44:41,375 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 07:44:41,586 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 07:44:41,724 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 07:44:49,674 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:44:49,674 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 07:44:49,674 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 07:44:49,761 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 07:44:52,293 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 07:44:52,293 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 07:44:52,294 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 07:44:52,294 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 08:29:26,411 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 08:29:26,412 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 08:29:26,422 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 08:29:26,437 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 08:29:26,437 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 08:29:26,802 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 08:29:36,748 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 08:29:36,748 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 08:29:36,748 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 08:29:37,279 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 08:29:37,545 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 08:29:40,724 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 08:29:40,724 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 08:29:43,049 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 08:29:44,529 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 08:32:10,647 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 08:32:10,647 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 08:32:10,737 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 08:32:11,069 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 08:32:11,345 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 08:32:14,717 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-06 08:32:14,757 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-06 08:32:14,757 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 08:32:15,153 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-06 08:32:16,661 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 08:32:16,851 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 08:32:16,970 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 08:32:27,482 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 08:32:27,482 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 08:32:27,509 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 08:32:27,664 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 08:32:27,797 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 08:32:38,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 08:32:38,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 72 : Expected Pass 
+2024-02-06 08:32:38,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 74 : Taking screenshot 
+2024-02-06 08:32:38,650 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 08:32:38,757 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 08:32:38,846 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 08:32:49,343 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 08:32:49,343 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 08:32:49,343 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 81 : Test_case test_user_login_DDT_005 is Failed 
+2024-02-06 09:39:09,599 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 09:39:09,601 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:39:10,218 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:39:10,219 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:39:10,219 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:39:10,528 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:39:10,529 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:39:10,529 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:39:11,036 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:39:11,283 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:39:11,284 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:39:11,284 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:39:11,655 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:39:11,788 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:39:11,864 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:39:11,994 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:39:12,075 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:39:15,834 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 09:39:15,834 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 09:39:15,834 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 09:39:16,290 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 09:39:18,703 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:39:18,703 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:39:22,148 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:39:22,148 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:39:22,149 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:39:22,780 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:39:23,091 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:39:23,189 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:39:23,190 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 09:39:23,190 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 09:39:23,190 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:39:23,190 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:39:23,192 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:39:23,192 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:39:23,919 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 09:39:33,795 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:39:33,795 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:39:33,795 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:39:33,795 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:40:39,994 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 09:40:39,994 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:40:40,055 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:40:40,317 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:40:40,579 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:40:45,221 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-06 09:40:45,257 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-06 09:40:45,257 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 09:40:45,758 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-06 09:40:47,604 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:40:47,852 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:40:47,979 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:40:58,659 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:40:58,659 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:40:58,722 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:40:59,000 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:40:59,219 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:41:09,803 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:41:09,803 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 72 : Expected Pass 
+2024-02-06 09:41:09,803 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 74 : Taking screenshot 
+2024-02-06 09:41:10,218 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:41:10,478 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:41:10,637 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:41:21,297 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:41:21,297 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:41:21,298 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 81 : Test_case test_user_login_DDT_005 is Failed 
+2024-02-06 09:42:22,202 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 09:42:22,204 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:42:22,235 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:42:22,395 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:42:22,524 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:42:26,596 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-06 09:42:26,628 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-06 09:42:26,633 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 09:42:26,827 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-06 09:42:28,608 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:42:28,755 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:42:28,846 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:42:38,497 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:42:38,497 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:42:38,536 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:42:59,180 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:42:59,180 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:42:59,180 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:42:59,331 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:42:59,331 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:42:59,332 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:42:59,347 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:42:59,582 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:42:59,659 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:42:59,867 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:43:00,093 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:43:00,094 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:43:00,094 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:43:00,230 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:43:00,231 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:43:00,231 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:43:00,456 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:43:00,639 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:43:00,794 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:43:00,816 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:43:01,116 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 09:43:01,116 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:43:01,154 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:43:01,626 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:43:01,765 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:43:03,629 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 09:43:03,630 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 09:43:03,630 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 09:43:03,853 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 09:43:05,242 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-06 09:43:05,274 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-06 09:43:05,277 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 09:43:05,523 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-06 09:43:06,166 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:43:06,167 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:43:07,381 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:43:07,536 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:43:07,637 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:43:10,283 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:43:10,283 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 09:43:10,283 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 09:43:10,498 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 09:43:11,485 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:43:11,485 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:43:11,488 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:43:11,488 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:43:11,538 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:43:11,539 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:43:11,539 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:43:11,539 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:43:18,425 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:43:18,425 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:43:18,473 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:43:18,697 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:43:18,824 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:43:29,545 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:43:29,545 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:43:29,579 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:43:29,696 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:43:29,790 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:43:40,337 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:43:40,337 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:43:40,337 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-06 09:43:40,337 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-06 09:45:00,642 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 09:45:00,643 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:00,651 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 09:45:00,656 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 09:45:00,657 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 09:45:00,684 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 09:45:00,684 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:00,684 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:00,839 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 09:45:00,874 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 09:45:01,169 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 09:45:04,811 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 09:45:04,811 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 09:45:05,054 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 09:45:06,994 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 09:45:28,391 : INFO : Test_Add_Customer : test_addCustomer_003 : 25 : Test_case test_addCustomer_003 is started 
+2024-02-06 09:45:28,391 : INFO : Test_Add_Customer : test_addCustomer_003 : 25 : Test_case test_addCustomer_003 is started 
+2024-02-06 09:45:28,392 : INFO : Test_Add_Customer : test_addCustomer_003 : 27 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:28,392 : INFO : Test_Add_Customer : test_addCustomer_003 : 27 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:28,392 : INFO : Test_Add_Customer : test_addCustomer_003 : 29 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:28,392 : INFO : Test_Add_Customer : test_addCustomer_003 : 29 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:28,688 : INFO : Test_Add_Customer : test_addCustomer_003 : 25 : Test_case test_addCustomer_003 is started 
+2024-02-06 09:45:28,688 : INFO : Test_Add_Customer : test_addCustomer_003 : 25 : Test_case test_addCustomer_003 is started 
+2024-02-06 09:45:28,688 : INFO : Test_Add_Customer : test_addCustomer_003 : 27 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:28,688 : INFO : Test_Add_Customer : test_addCustomer_003 : 27 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:28,689 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-06 09:45:28,689 : INFO : Test_Add_Customer : test_addCustomer_003 : 29 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:28,689 : INFO : Test_Add_Customer : test_addCustomer_003 : 29 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:28,689 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:28,697 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-06 09:45:28,705 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-06 09:45:28,705 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-06 09:45:29,098 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-06 09:45:29,102 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:29,102 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:29,136 : INFO : Test_Add_Customer : test_addCustomer_003 : 31 : Entering Password - admin 
+2024-02-06 09:45:29,136 : INFO : Test_Add_Customer : test_addCustomer_003 : 31 : Entering Password - admin 
+2024-02-06 09:45:29,172 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-06 09:45:29,172 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:29,173 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-06 09:45:29,230 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:29,409 : INFO : Test_Add_Customer : test_addCustomer_003 : 33 : Click on login button 
+2024-02-06 09:45:29,409 : INFO : Test_Add_Customer : test_addCustomer_003 : 33 : Click on login button 
+2024-02-06 09:45:29,450 : INFO : Test_Add_Customer : test_addCustomer_003 : 31 : Entering Password - admin 
+2024-02-06 09:45:29,450 : INFO : Test_Add_Customer : test_addCustomer_003 : 31 : Entering Password - admin 
+2024-02-06 09:45:29,658 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-06 09:45:29,759 : INFO : Test_Add_Customer : test_addCustomer_003 : 33 : Click on login button 
+2024-02-06 09:45:29,759 : INFO : Test_Add_Customer : test_addCustomer_003 : 33 : Click on login button 
+2024-02-06 09:45:29,808 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-06 09:45:29,869 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:45:30,081 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:45:31,546 : INFO : Test_Add_Customer : test_addCustomer_003 : 36 : Click on Customer Menu 
+2024-02-06 09:45:31,546 : INFO : Test_Add_Customer : test_addCustomer_003 : 36 : Click on Customer Menu 
+2024-02-06 09:45:33,084 : INFO : Test_Add_Customer : test_addCustomer_003 : 36 : Click on Customer Menu 
+2024-02-06 09:45:33,084 : INFO : Test_Add_Customer : test_addCustomer_003 : 36 : Click on Customer Menu 
+2024-02-06 09:45:33,901 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-06 09:45:33,934 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-06 09:45:33,934 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-06 09:45:34,183 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-06 09:45:34,201 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-06 09:45:34,202 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-06 09:45:34,671 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-06 09:45:36,449 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-06 09:45:36,456 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:36,607 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:45:36,607 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:36,608 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:36,669 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:45:36,845 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:45:36,999 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:45:37,163 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:45:43,644 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:45:43,644 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:43,644 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:45:43,818 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-06 09:45:44,080 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:45:44,665 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:45:44,665 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:44,665 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-06 09:45:44,816 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:45:45,074 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-06 09:45:45,075 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-06 09:45:45,075 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-06 09:45:45,122 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:45:45,539 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-06 09:45:45,665 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-06 09:45:47,462 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:45:47,462 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:45:47,525 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:45:47,728 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-06 09:45:47,728 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-06 09:45:47,729 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-06 09:45:47,731 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-06 09:45:47,844 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:45:47,921 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-06 09:45:47,988 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:45:47,988 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-06 09:45:47,988 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-06 09:45:48,135 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-06 09:45:49,715 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:45:49,716 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:45:54,767 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:45:54,767 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:45:54,768 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:45:54,768 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:45:56,453 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-06 09:45:56,454 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-06 09:45:56,454 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-06 09:45:56,454 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-06 09:45:58,410 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:45:58,410 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:45:58,445 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-06 09:45:58,640 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-06 09:45:58,753 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-06 09:46:09,438 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-06 09:46:09,438 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-06 09:46:09,438 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-06 09:46:09,438 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-07 01:48:13,468 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:48:13,473 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:48:13,473 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-07 01:48:14,962 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 01:48:14,962 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:48:14,963 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 01:48:16,375 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-07 01:48:16,375 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:48:16,605 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 01:48:16,605 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:48:16,641 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-07 01:48:16,780 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:48:16,780 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:48:16,780 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-07 01:48:17,408 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 01:48:17,517 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 01:48:17,519 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 01:48:18,190 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-07 01:48:18,256 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 01:48:18,913 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 01:48:19,151 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-07 01:48:19,213 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:48:19,422 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-07 01:48:20,043 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 01:48:23,105 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:48:23,313 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:48:24,212 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-07 01:48:24,224 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 01:48:24,225 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 01:48:24,295 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-07 01:48:24,295 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-07 01:48:25,616 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-07 01:48:25,626 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 01:48:28,676 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-07 01:48:28,732 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 01:48:28,797 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-07 01:48:28,797 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-07 01:48:28,798 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-07 01:48:29,977 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-07 01:48:30,198 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-07 01:48:30,547 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:48:33,681 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:48:33,683 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:48:34,744 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:48:34,745 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-07 01:48:34,745 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:48:34,745 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:48:42,416 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:48:42,416 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:48:42,459 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-07 01:48:43,402 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-07 01:48:45,324 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:48:59,923 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:48:59,924 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:49:00,101 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-07 01:49:01,564 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:49:01,564 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:01,564 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-07 01:49:01,578 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 01:49:01,578 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:01,589 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 01:49:01,590 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:01,590 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 01:49:01,775 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 01:49:01,803 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 01:49:01,803 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 01:49:02,422 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 01:49:02,575 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 01:49:03,143 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 01:49:03,273 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-07 01:49:03,482 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-07 01:49:03,721 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:49:03,802 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:49:05,891 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:49:05,891 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:05,891 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-07 01:49:05,986 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-07 01:49:05,987 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:06,052 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-07 01:49:09,079 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 01:49:09,079 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 01:49:10,303 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 01:49:10,530 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-07 01:49:10,687 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-07 01:49:11,017 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:49:11,173 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:49:14,385 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 01:49:16,614 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:49:16,614 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:49:16,614 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-07 01:49:16,615 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-07 01:49:16,923 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:49:16,923 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-07 01:49:16,923 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:49:16,924 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:49:17,780 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-07 01:49:17,781 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-07 01:49:17,781 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-07 01:49:17,840 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-07 01:49:17,881 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-07 01:49:17,883 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-07 01:49:18,940 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-07 01:49:18,944 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-07 01:49:21,040 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:49:21,040 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:49:21,115 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-07 01:49:21,463 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-07 01:49:21,715 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:49:32,588 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:49:32,588 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:49:32,621 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-07 01:49:33,228 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-07 01:49:33,450 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:49:40,700 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:49:40,701 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:40,701 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-07 01:49:41,443 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-07 01:49:41,747 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:49:42,667 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:49:42,667 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:49:42,667 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-07 01:49:43,198 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-07 01:49:43,460 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:49:44,198 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:49:44,199 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:49:44,257 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-07 01:49:44,512 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-07 01:49:44,933 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-07 01:49:52,963 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:49:52,963 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-07 01:49:52,963 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:49:52,964 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:49:54,358 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:49:54,358 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-07 01:49:54,358 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-07 01:49:55,194 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-07 01:49:56,127 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-07 01:49:56,127 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-07 01:49:56,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-07 01:49:56,129 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-07 01:50:24,550 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:50:24,569 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:50:24,569 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-07 01:50:29,061 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-07 01:50:29,986 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:50:32,046 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:50:32,047 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:50:32,047 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-07 01:50:33,579 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-07 01:50:33,911 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-07 01:50:41,248 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:50:41,248 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-07 01:50:41,249 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-07 01:50:41,249 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-07 01:50:44,969 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-07 01:50:44,969 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-07 01:50:44,969 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-07 01:50:45,459 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-07 01:56:53,366 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:56:53,374 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:56:53,374 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-07 01:57:03,916 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-07 01:57:03,916 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:57:03,917 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-07 01:57:04,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-07 01:57:04,361 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-07 01:57:04,495 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-07 02:00:13,358 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:00:13,359 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:00:13,359 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:00:14,145 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:00:14,145 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:00:14,193 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:00:14,202 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:00:14,203 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:00:15,119 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:00:15,440 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:00:15,484 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:00:18,085 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:00:18,085 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:00:20,360 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:00:21,951 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 02:04:04,954 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:04:04,954 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:04:04,954 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:04:05,470 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:04:05,471 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:04:05,534 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:04:05,665 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:04:05,666 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:04:05,843 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:04:06,088 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:04:06,274 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:04:10,215 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:04:10,216 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:04:10,996 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:04:12,887 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 02:08:05,631 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:08:05,631 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:08:05,631 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:08:05,649 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:08:05,649 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:08:05,666 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:08:05,680 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:08:05,680 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:08:05,964 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:08:06,067 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:08:06,216 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:08:08,852 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:08:08,852 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:08:09,234 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:08:11,456 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 02:13:12,525 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:13:12,526 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:13:12,950 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:13:12,950 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:13:12,950 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:13:13,392 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:13:13,514 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:13:13,515 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:13:13,978 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:13:14,354 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:13:14,651 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:13:18,394 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:13:18,395 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:13:18,695 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:13:20,592 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 02:14:33,104 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:14:33,104 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:14:33,155 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:14:33,163 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:14:33,164 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:14:33,164 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:14:33,179 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:14:33,179 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:14:33,507 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:14:33,647 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:14:33,888 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:14:37,268 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:14:37,268 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:14:37,579 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:14:39,049 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-07 02:15:48,607 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-07 02:15:48,608 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:15:48,609 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-07 02:15:48,878 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-07 02:15:48,878 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-07 02:15:48,950 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-07 02:15:48,988 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-07 02:15:48,988 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-07 02:15:49,304 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-07 02:15:49,459 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-07 02:15:49,674 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-07 02:15:53,001 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-07 02:15:53,002 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-07 02:15:53,449 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-07 02:15:55,264 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-08 08:37:02,871 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 21 : Test_case test_user_login_DDT_005 is started 
+2024-02-08 08:37:02,872 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:37:02,938 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-08 08:37:03,061 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-08 08:37:03,061 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:37:03,061 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-08 08:37:04,353 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-08 08:37:04,383 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-08 08:37:04,531 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-08 08:37:04,837 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-08 08:37:09,332 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-08 08:37:09,334 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:37:09,334 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-08 08:37:12,536 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 44 : Login Pass 
+2024-02-08 08:37:12,614 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 47 : Expected Pass 
+2024-02-08 08:37:12,614 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 49 : Taking screenshot 
+2024-02-08 08:37:12,746 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-08 08:37:12,747 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:37:12,748 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com1 
+2024-02-08 08:37:12,966 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-08 08:37:13,302 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 53 : Click on Logout button 
+2024-02-08 08:37:14,262 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-08 08:37:14,347 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin 
+2024-02-08 08:37:15,805 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-08 08:37:15,806 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-08 08:37:15,806 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-08 08:37:15,807 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-08 08:37:16,904 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com 
+2024-02-08 08:37:18,320 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-08 08:37:18,483 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-08 08:37:19,360 : INFO : Test_Login_Params : test_user_login_params_004 : 31 : Login Pass 
+2024-02-08 08:37:19,361 : INFO : Test_Login_Params : test_user_login_params_004 : 33 : Expected Pass 
+2024-02-08 08:37:19,361 : INFO : Test_Login_Params : test_user_login_params_004 : 35 : Taking screenshot 
+2024-02-08 08:37:19,567 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-08 08:37:19,758 : INFO : Test_Login_Params : test_user_login_params_004 : 39 : Click on Logout button 
+2024-02-08 08:37:25,757 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-08 08:37:25,757 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-08 08:37:31,766 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-08 08:37:31,766 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-08 08:37:31,846 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-08 08:37:31,879 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-08 08:37:31,880 : INFO : Test_Login_Params : test_user_login_params_004 : 53 : Expected Fail 
+2024-02-08 08:37:31,880 : INFO : Test_Login_Params : test_user_login_params_004 : 64 : Test_case test_user_login_params_004 is Passed 
+2024-02-08 08:37:31,880 : INFO : Test_Login_Params : test_user_login_params_004 : 69 : Test_case test_user_login_params_004 is Completed 
+2024-02-08 08:37:33,119 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin 
+2024-02-08 08:37:36,145 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-08 08:37:47,243 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-08 08:37:47,243 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-08 08:37:47,352 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 36 : Entering email - admin@yourstore.com1 
+2024-02-08 08:37:47,839 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 38 : Entering Password - admin1 
+2024-02-08 08:37:48,843 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 40 : Click on login button 
+2024-02-08 08:38:01,723 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 67 : Login Fail 
+2024-02-08 08:38:01,723 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 69 : Expected Fail 
+2024-02-08 08:38:01,724 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 84 : Test_case test_user_login_DDT_005 is Passed  
+2024-02-08 08:38:01,724 : INFO : Test_Login_DDT : test_user_login_DDT_005 : 86 : Test_case test_user_login_DDT_005 is Completed 
+2024-02-08 08:38:16,968 : INFO : Test_Login_Params : test_user_login_params_004 : 19 : Test_case test_user_login_params_004 is started 
+2024-02-08 08:38:16,970 : INFO : Test_Login_Params : test_user_login_params_004 : 21 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:38:16,970 : INFO : Test_Login_Params : test_user_login_params_004 : 23 : Entering email - admin@yourstore.com 
+2024-02-08 08:38:17,799 : INFO : Test_Login_Params : test_user_login_params_004 : 25 : Entering Password - admin1 
+2024-02-08 08:38:18,128 : INFO : Test_Login_Params : test_user_login_params_004 : 27 : Click on login button 
+2024-02-08 08:38:29,057 : INFO : Test_Login_Params : test_user_login_params_004 : 51 : Login Fail 
+2024-02-08 08:38:29,058 : INFO : Test_Login_Params : test_user_login_params_004 : 56 : Expected Pass 
+2024-02-08 08:38:29,058 : INFO : Test_Login_Params : test_user_login_params_004 : 58 : Taking screenshot 
+2024-02-08 08:38:29,424 : INFO : Test_Login_Params : test_user_login_params_004 : 67 : Test_case test_user_login_params_004 is Failed 
+2024-02-08 08:41:59,611 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-08 08:41:59,612 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:41:59,613 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-08 08:41:59,643 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-08 08:41:59,643 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-08 08:42:00,336 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-08 08:42:00,706 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-08 08:42:00,706 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-08 08:42:01,247 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-08 08:42:02,274 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-08 08:42:03,372 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-08 08:42:08,681 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-08 08:42:08,681 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-08 08:42:09,266 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-08 08:42:11,405 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-08 09:03:50,854 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-08 09:03:50,854 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-08 09:03:50,854 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-08 09:03:53,315 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-08 09:03:53,315 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-08 09:03:53,724 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-08 09:03:54,060 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-08 09:03:54,060 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-08 09:03:54,675 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-08 09:03:55,316 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-08 09:03:57,277 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-08 09:04:04,040 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-08 09:04:04,040 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-08 09:04:04,506 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-08 09:04:06,988 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 
+2024-02-09 07:53:07,140 : INFO : Test_Login : test_user_login_002 : 52 : Test_case test_user_login_002 is started 
+2024-02-09 07:53:07,140 : INFO : Test_Login : test_user_login_002 : 54 : Opening browser and navigating to demo_nop_com 
+2024-02-09 07:53:07,141 : INFO : Test_Login : test_user_login_002 : 56 : Entering email - admin@yourstore.com 
+2024-02-09 07:53:07,583 : INFO : Test_Login : test_verify_url_001 : 28 : Test_case test_verify_url_001 is started 
+2024-02-09 07:53:07,583 : INFO : Test_Login : test_verify_url_001 : 30 : Opening browser and navigating to demo_nop_com 
+2024-02-09 07:53:07,601 : INFO : Test_Login : test_verify_url_001 : 31 : Page Title is --> Your store. Login 
+2024-02-09 07:53:07,615 : INFO : Test_Login : test_verify_url_001 : 34 : Test_Case test_verify_url_001 is passed 
+2024-02-09 07:53:07,615 : INFO : Test_Login : test_verify_url_001 : 35 : Taking screenshot 
+2024-02-09 07:53:08,482 : INFO : Test_Login : test_user_login_002 : 58 : Entering Password - admin 
+2024-02-09 07:53:08,628 : INFO : Test_Login : test_verify_url_001 : 47 : Test_case test_verify_url_001 is Completed 
+2024-02-09 07:53:08,965 : INFO : Test_Login : test_user_login_002 : 60 : Click on login button 
+2024-02-09 07:53:11,852 : INFO : Test_Login : test_user_login_002 : 63 : Test_case test_user_login_002 is passed 
+2024-02-09 07:53:11,852 : INFO : Test_Login : test_user_login_002 : 64 : Taking screenshot 
+2024-02-09 07:53:12,423 : INFO : Test_Login : test_user_login_002 : 68 : Click on Logout button 
+2024-02-09 07:53:12,441 : INFO : Test_Login : test_user_login_002 : 78 : Test_case test_user_login_002 is Completed 

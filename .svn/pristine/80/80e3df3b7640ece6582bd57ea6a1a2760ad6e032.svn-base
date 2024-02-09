@@ -1,0 +1,6 @@
+[
+  "testCases/test_AddCustomer.py::Test_Add_Customer::test_addCustomer_003",
+  "testCases/test_UserLogin.py::Test_Login::test_user_login_002",
+  "testCases/test_UserLogin.py::Test_Login::test_verify_url_001",
+  "testCases/test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005"
+]

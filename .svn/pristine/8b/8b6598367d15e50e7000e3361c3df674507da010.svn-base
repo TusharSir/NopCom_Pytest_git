@@ -1,0 +1,9 @@
+{
+  "test_AddCustomer.py::Test_Add_Customer::test_addCustomer_003": true,
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin0]": true,
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin1]": true,
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin2]": true,
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin3]": true,
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005": true,
+  "test_UserLogin.py::Test_Login": true
+}

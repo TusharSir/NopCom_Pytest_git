@@ -1,0 +1,14 @@
+[
+  "test_AddCustomer.py::Test_Add_Customer::test_addCustomer_003",
+  "test_UserLogin.py::Test_Login::test_user_login_002",
+  "test_UserLogin.py::Test_Login::test_verify_url_001",
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005",
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin0]",
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin1]",
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin2]",
+  "test_UserLogin_DDT.py::Test_Login_DDT::test_user_login_DDT_005[DataForLogin3]",
+  "test_UserLogin_params.py::Test_Login_Params::test_user_login_params_004[DataForLogin0]",
+  "test_UserLogin_params.py::Test_Login_Params::test_user_login_params_004[DataForLogin1]",
+  "test_UserLogin_params.py::Test_Login_Params::test_user_login_params_004[DataForLogin2]",
+  "test_UserLogin_params.py::Test_Login_Params::test_user_login_params_004[DataForLogin3]"
+]
